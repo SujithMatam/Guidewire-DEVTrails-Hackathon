@@ -1,4 +1,4 @@
-                                            AI-Powered Disaster Income Protection System
+                                       AI-Powered Disaster Income Protection System
 Problem Statement:
 Gig workers (delivery partners from platforms like Swiggy and Zomato) lose daily income during:
   •	Natural disasters 
