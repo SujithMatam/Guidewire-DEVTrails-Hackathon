@@ -122,5 +122,8 @@ Impact
   •	Reduced fraud via AI
   •	Scalable across cities
 
-Repository Link:
-2-Minute Video:
+Repository Link: 
+https://github.com/SujithMatam/Guidewire-DEVTrails-Hackathon
+
+2-Minute Video: 
+https://amritauniv-my.sharepoint.com/:f:/g/personal/am_sc_u4cse23159_am_students_amrita_edu/IgC0icKNYOXVQoylmOuAFWcRAXVi7q0exrvL2cQw_31to44?e=4M6WPH
